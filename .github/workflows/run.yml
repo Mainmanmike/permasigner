@@ -3,7 +3,7 @@ name: Run script
 on:
   workflow_dispatch:
     inputs:
-      ipa:
+      ipa: unc0ver_Release_8.0.2.ipa
         description: "Direct URL to IPA file"
         required: true
 
